@@ -1,2 +1,34 @@
 # Low-Light Image Enhancement Based on Cell Vibration Energy Model and Lightness Difference (CDEG method)
-The paper is under review. Image resources and code files will be released in the future.
+The paper has been accepted by Computer Vision and Image Understanding (CVIU) on July 08, 2024. The encryption code and demo are now available for download.
+
+## Test demo
+The encrypted code available for testing can be downloaded.
+You can use this [https URL](https://pan.quark.cn/s/2221fbd29a20)（提取码：LE72) or [https URL](https://pan.baidu.com/s/1v4x0rv4fmn6DylFLOB52nA)（提取码：fxvd) to download the algorithm demo.   
+
+## Corrected version of SICE part2 dataset 
+
+786 pairs of images in SICE part2 dataset can be downloaded at this [https URL]() or [https URL]() (size = 1.49GB).
+
+## MIT dataset 
+
+5000 pairs of images in MIT dataset can be downloaded at this [https URL]() or [https URL]() (size = 3.88GB).
+
+## citation
+
+If you think the data set and code we collate are helpful for your research, please cite:
+
+```
+
+@article{CDEG,
+  title={Low-light image enhancement based on cell vibration energy model and lightness difference},
+  author={Xiaozhou Lei, Zixiang Fei, Wenju Zhou, Huiyu Zhou and Minrui Fei},
+  journal={Computer Vision and Image Understanding},
+  year={2024}
+  month={07}
+  day={08}
+  doi={https://doi.org/10.1016/j.cviu.2024.104079}
+}
+
+
+```
+
