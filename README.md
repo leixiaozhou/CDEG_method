@@ -20,13 +20,15 @@ If you think the data set and code we collate are helpful for your research, ple
 ```
 
 @article{CDEG,
-  title={Low-light image enhancement based on cell vibration energy model and lightness difference},
-  author={Xiaozhou Lei, Zixiang Fei, Wenju Zhou, Huiyu Zhou and Minrui Fei},
-  journal={Computer Vision and Image Understanding},
-  year={2024}
-  month={07}
-  day={08}
-  doi={https://doi.org/10.1016/j.cviu.2024.104079}
+title = {Low-light image enhancement based on cell vibration energy model and lightness difference},
+journal = {Computer Vision and Image Understanding},
+volume = {247},
+pages = {104079},
+year = {2024},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2024.104079},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314224001607},
+author = {Xiaozhou Lei and Zixiang Fei and Wenju Zhou and Huiyu Zhou and Minrui Fei}
 }
 
 
