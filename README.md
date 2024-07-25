@@ -28,7 +28,7 @@ year = {2024},
 issn = {1077-3142},
 doi = {https://doi.org/10.1016/j.cviu.2024.104079},
 url = {https://www.sciencedirect.com/science/article/pii/S1077314224001607},
-author = {Xiaozhou Lei and Zixiang Fei and Wenju Zhou and Huiyu Zhou and Minrui Fei}
+author = {Lei X., Fei Z., Zhou W., Zhou H. and Fei M.}
 }
 
 
